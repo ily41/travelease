@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "Alpine Escape",
+        "destination": "Swiss Alps",
+        "price": 1200,
+        "description": "Experience the serene beauty of the Swiss Alps in a cozy mountain lodge. Perfect for skiing enthusiasts and nature lovers alike. Enjoy breathtaking views and world-class amenities.",
+        "imageURL": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Azure Maldives",
+        "destination": "Maldives",
+        "price": 2500,
+        "description": "Crystal clear waters and white sandy beaches await you in the heart of the Indian Ocean. Stay in an overwater villa and witness the most stunning sunsets on the planet.",
+        "imageURL": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Kyoto Zen",
+        "destination": "Japan",
+        "price": 1800,
+        "description": "Immerse yourself in the rich culture and tranquil temples of Kyoto. Experience traditional tea ceremonies and wander through the iconic Arashiyama bamboo grove.",
+        "imageURL": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Santorini Sunset",
+        "destination": "Greece",
+        "price": 1500,
+        "description": "Walk through the white-washed streets of Oia and enjoy the world-famous Aegean sunset. This package includes a private caldera-view terrace stay.",
+        "imageURL": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Safari Adventure",
+        "destination": "Kenya",
+        "price": 3200,
+        "description": "witness the Great Migration in the Maasai Mara. A luxurious tented camp experience that brings you closer to nature's most magnificent creatures.",
+        "imageURL": "https://images.unsplash.com/photo-1516422317184-33a860000ed2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Parisian Romance",
+        "destination": "France",
+        "price": 2200,
+        "description": "Indulge in the city of light. Stay in a boutique hotel near the Eiffel Tower and enjoy gourmet dining and strolls along the Seine.",
+        "imageURL": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Icelandic Wonders",
+        "destination": "Iceland",
+        "price": 2800,
+        "description": "Chase the Northern Lights and explore breathtaking waterfalls, glaciers, and geothermal lagoons in the land of fire and ice.",
+        "imageURL": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 8,
+        "name": "Bali Bliss",
+        "destination": "Indonesia",
+        "price": 900,
+        "description": "Discover the spiritual heart of Bali with a stay in Ubud. Surrounded by lush rice terraces and ancient forests, it's the ultimate wellness retreat.",
+        "imageURL": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 9,
+        "name": "Amalfi Coast Dream",
+        "destination": "Italy",
+        "price": 2100,
+        "description": "Drive along the spectacular coastal roads and stay in Positano's cliffside villas. Enjoy the best Mediterranean cuisine and vibrant lemon groves.",
+        "imageURL": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 10,
+        "name": "Icelandic Geysers",
+        "destination": "Iceland",
+        "price": 2400,
+        "description": "Visit the Golden Circle and witness the powerful eruptions of Strokkur geyser and the majesty of Gullfoss waterfall.",
+        "imageURL": "https://images.unsplash.com/photo-1520637102912-2df6bb2aec6d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 11,
+        "name": "Swiss Lakes",
+        "destination": "Switzerland",
+        "price": 1900,
+        "description": "Relax by the shores of Lake Lucerne and take a boat trip to explore the charming lakeside towns and majestic mountains.",
+        "imageURL": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 12,
+        "name": "Tuscany Vineyards",
+        "destination": "Italy",
+        "price": 1700,
+        "description": "Savor the flavors of Tuscany with wine tastings in Chianti and visits to historic Florence and Siena.",
+        "imageURL": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 13,
+        "name": "Norwegian Fjords",
+        "destination": "Norway",
+        "price": 2600,
+        "description": "Cruise through the deep blue fjords and witness dramatic peaks and cascading waterfalls in the heart of Norway.",
+        "imageURL": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 14,
+        "name": "Great Barrier Reef",
+        "destination": "Australia",
+        "price": 3500,
+        "description": "Dive into the world's largest coral reef system and discover a vibrant underwater paradise teeming with marine life.",
+        "imageURL": "https://images.unsplash.com/photo-1518384401463-d3876163ca69?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 15,
+        "name": "Machu Picchu Trek",
+        "destination": "Peru",
+        "price": 2300,
+        "description": "Hike the Inca Trail and uncover the mysteries of the lost city of Machu Picchu high in the Andes Mountains.",
+        "imageURL": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 16,
+        "name": "Grand Canyon Vista",
+        "destination": "USA",
+        "price": 1100,
+        "description": "Marvel at the immense scale and vibrant colors of the Grand Canyon, one of the world's most iconic natural wonders.",
+        "imageURL": "https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 17,
+        "name": "Banff National Park",
+        "destination": "Canada",
+        "price": 1600,
+        "description": "Explore the majestic Canadian Rockies, turquoise lakes, and abundant wildlife in the breathtaking Banff National Park.",
+        "imageURL": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 18,
+        "name": "Phuket Getaway",
+        "destination": "Thailand",
+        "price": 850,
+        "description": "Relax on the stunning beaches of Phuket, enjoy vibrant nightlife, and explore the enchanting islands of the Andaman Sea.",
+        "imageURL": "https://images.unsplash.com/photo-1528181304800-2f1408198f2f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 19,
+        "name": "Marrakech Medina",
+        "destination": "Morocco",
+        "price": 1300,
+        "description": "Navigate the bustling souks, explore historic palaces, and stay in a traditional riad in the heart of Marrakech.",
+        "imageURL": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 20,
+        "name": "New York City Lights",
+        "destination": "USA",
+        "price": 2000,
+        "description": "Experience the energy of the Big Apple with visits to Times Square, Central Park, and the iconic Statue of Liberty.",
+        "imageURL": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 21,
+        "name": "Patagonia Expedition",
+        "destination": "Argentina",
+        "price": 3100,
+        "description": "Trek through the dramatic landscapes of Patagonia, witnessing glaciers, mountains, and unique wildlife in Southern Argentina.",
+        "imageURL": "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 22,
+        "name": "Dubrovnik Old Town",
+        "destination": "Croatia",
+        "price": 1450,
+        "description": "Walk along the historic city walls and enjoy the stunning views of the Adriatic Sea in the beautiful city of Dubrovnik.",
+        "imageURL": "https://images.unsplash.com/photo-1555990530-d3065eb26d36?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 23,
+        "name": "Galapagos Islands",
+        "destination": "Ecuador",
+        "price": 4200,
+        "description": "Encounter unique wildlife and explore the pristine natural beauty of the Galapagos Islands on a luxurious cruise.",
+        "imageURL": "https://images.unsplash.com/photo-1583037189850-1921ae7c6c22?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 24,
+        "name": "Petra Ancient City",
+        "destination": "Jordan",
+        "price": 1950,
+        "description": "Uncover the secrets of the Rose City, carving into the desert rocks, and experience the rich history of Jordan.",
+        "imageURL": "https://images.unsplash.com/photo-1579606052025-101963070051?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 25,
+        "name": "Table Mountain View",
+        "destination": "South Africa",
+        "price": 1850,
+        "description": "Enjoy the breathtaking views from Table Mountain and explore the vibrant city of Cape Town and its stunning coastline.",
+        "imageURL": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 26,
+        "name": "Pyramids of Giza",
+        "destination": "Egypt",
+        "price": 1650,
+        "description": "Marvel at the ancient pyramids, explore the Sphinx, and cruise along the historic Nile River in Egypt.",
+        "imageURL": "https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 27,
+        "name": "Great Wall Trek",
+        "destination": "China",
+        "price": 1750,
+        "description": "Walk along the ancient watchtowers and enjoy the panoramic views from the world-famous Great Wall of China.",
+        "imageURL": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 28,
+        "name": "Bora Bora Retreat",
+        "destination": "French Polynesia",
+        "price": 3800,
+        "description": "Relax in an overwater bungalow in the turquoise lagoon of Bora Bora, a true paradise in the South Pacific.",
+        "imageURL": "https://images.unsplash.com/photo-1502726299822-6f583f972e02?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 29,
+        "name": "Scottish Highlands",
+        "destination": "United Kingdom",
+        "price": 1400,
+        "description": "Explore the rugged landscapes, historic castles, and mysterious lochs of the breathtaking Scottish Highlands.",
+        "imageURL": "https://images.unsplash.com/photo-1506377247377-2a5b3b0ca7df?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 30,
+        "name": "Prague Old Town",
+        "destination": "Czech Republic",
+        "price": 1250,
+        "description": "Discover the magical atmosphere of Prague's Old Town Square, the iconic Charles Bridge, and the historic Prague Castle.",
+        "imageURL": "https://images.unsplash.com/photo-1541849546-216549ae216d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 31,
+        "name": "Tahiti Dream",
+        "destination": "French Polynesia",
+        "price": 3300,
+        "description": "Immerse yourself in the vibrant culture and stunning natural beauty of Tahiti, the largest island in French Polynesia.",
+        "imageURL": "https://images.unsplash.com/photo-1589493223002-3f271676df08?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 32,
+        "name": "Istanbul Bosphorus",
+        "destination": "Turkey",
+        "price": 1550,
+        "description": "Explore the historic sites where East meets West, from the Hagia Sophia to the bustling Grand Bazaar.",
+        "imageURL": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 33,
+        "name": "Lake Como Villa",
+        "destination": "Italy",
+        "price": 2700,
+        "description": "Stay in a luxurious villa by the shores of Lake Como and experience the elegance and beauty of Northern Italy.",
+        "imageURL": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 34,
+        "name": "Dubrovnik Sunset",
+        "destination": "Croatia",
+        "price": 1400,
+        "description": "Enjoy the stunning sunsets over the Adriatic Sea from the historic city walls of Dubrovnik.",
+        "imageURL": "https://images.unsplash.com/photo-1555990530-d3065eb26d36?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 35,
+        "name": "Lisbon Tiles",
+        "destination": "Portugal",
+        "price": 1150,
+        "description": "Wander through the charming tiled streets of Lisbon, enjoy the views from the hilltop miradouros, and savor the local flavors.",
+        "imageURL": "https://images.unsplash.com/photo-1585211843281-2244e7609a0b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 36,
+        "name": "Vienna Opera",
+        "destination": "Austria",
+        "price": 1600,
+        "description": "Experience the rich musical heritage and elegant architecture of Vienna, from the State Opera to the historic coffee houses.",
+        "imageURL": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 37,
+        "name": "Havana Classic",
+        "destination": "Cuba",
+        "price": 1350,
+        "description": "Step back in time in the vibrant city of Havana, with its classic cars, colorful buildings, and lively music scene.",
+        "imageURL": "https://images.unsplash.com/photo-1500051645601-19760a0a7401?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 38,
+        "name": "Costa Rica Jungle",
+        "destination": "Costa Rica",
+        "price": 1900,
+        "description": "Explore the lush rainforests, diverse wildlife, and stunning beaches of Costa Rica in the heart of Central America.",
+        "imageURL": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 39,
+        "name": "Budapest Bridges",
+        "destination": "Hungary",
+        "price": 1200,
+        "description": "Marvel at the beautiful bridges and historic landmarks along the Danube River in the charming city of Budapest.",
+        "imageURL": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 40,
+        "name": "Seoul High-Tech",
+        "destination": "South Korea",
+        "price": 1700,
+        "description": "Experience the vibrant energy and cutting-edge technology of Seoul, from ancient temples to modern skyscrapers.",
+        "imageURL": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=800&q=80"
+    }
+]
